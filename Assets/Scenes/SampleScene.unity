@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playinVR: 0
-  participant: matt-test
+  participant: test
   skipWalkCalibration: 1
   responseMapping: L:shorter R:longer
   trialCount: 0
@@ -1484,7 +1484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab82efa323b8e43a8ba33f778b2774ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  expParams: {fileID: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1685,8 +1684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f70bcc46899fb460485587103a06c308, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  expParams: {fileID: 0}
-  TextBG: {fileID: 130104886}
+  TextBG: {fileID: 72365016}
   scriptHolder: {fileID: 731557924}
 --- !u!1 &942580339
 GameObject:
@@ -2454,8 +2452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f70bcc46899fb460485587103a06c308, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  expParams: {fileID: 0}
-  TextBG: {fileID: 701728772}
+  TextBG: {fileID: 72365016}
   scriptHolder: {fileID: 731557924}
 --- !u!1 &1441512943
 GameObject:

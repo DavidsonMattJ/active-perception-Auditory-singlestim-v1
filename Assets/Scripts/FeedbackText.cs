@@ -18,7 +18,7 @@ public class FeedbackText : MonoBehaviour
     private TextMeshProUGUI textMesh;
     private Dictionary<TextType, string> textStrings;
 
-    [SerializeField]
+    
     experimentParameters expParams;
     runExperiment runExperiment;
     controlWalkingGuide controlWalkingGuide;
